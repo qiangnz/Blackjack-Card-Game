@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Meng\\.nuget\\packages\\": {},
+    "C:\\Users\\qiang\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meng\\Desktop\\Assignment1\\Part1\\Task2_CardGame\\CardGame\\CardGame.csproj",
+      "projectUniqueName": "C:\\Users\\qiang\\Desktop\\Part1\\Blackjack-Card-Game\\CardGame\\CardGame.csproj",
       "projectName": "CardGame",
-      "projectPath": "C:\\Users\\Meng\\Desktop\\Assignment1\\Part1\\Task2_CardGame\\CardGame\\CardGame.csproj",
-      "packagesPath": "C:\\Users\\Meng\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meng\\Desktop\\Assignment1\\Part1\\Task2_CardGame\\CardGame\\obj\\",
+      "projectPath": "C:\\Users\\qiang\\Desktop\\Part1\\Blackjack-Card-Game\\CardGame\\CardGame.csproj",
+      "packagesPath": "C:\\Users\\qiang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qiang\\Desktop\\Part1\\Blackjack-Card-Game\\CardGame\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Meng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\qiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
